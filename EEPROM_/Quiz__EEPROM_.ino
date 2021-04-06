@@ -20,7 +20,7 @@ void setup() {
     digitalWrite(2, HIGH);
   }
 }
-
+//this is a comment, pull request
 void loop() {
    if(x == 0){
      if( digitalRead(A0) == HIGH){
